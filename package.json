@@ -1,5 +1,5 @@
 {
-  "name": "ManageTypeTasks-cb",
+  "name": "managetype-tasks-cb",
   "version": "1.0.0",
   "description": "This library provides a simple yet powerful state management system designed specifically for task management applications. Built with TypeScript, it offers type-safe operations to manage tasks efficiently",
   "main": "dist/index.js",
