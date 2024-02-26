@@ -21,7 +21,7 @@ npm install your-task-management-library
 Import the `Store` class from the package to start using it:
 
 ```javascript
-import { Store } from 'your-task-management-library';
+import { Store } from 'ManageTypeTasks-cb';
 
 ```
 
@@ -32,7 +32,7 @@ import { Store } from 'your-task-management-library';
 To create a new store with an initial state, use the `Store` class constructor:
 
 ```javascript
-import { Store } from 'your-task-management-library';
+import { Store } from 'ManageTypeTasks-cb';
 
 const initialState = {
   tasks: [],
@@ -115,7 +115,7 @@ Here's a simple example showing how to initialize the store, add a task, and sub
 &nbsp;
 
 ```javascript
-import { Store } from 'your-task-management-library';
+import { Store } from 'ManageTypeTasks-cb';
 
 // Initial state
 const store = new Store({ tasks: [] });
